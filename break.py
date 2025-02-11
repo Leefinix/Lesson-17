@@ -4,5 +4,4 @@ for i in a:
         print("A is found")
         break
     else:
-        print("A is not found")
-        
+        print("A is not found")        
